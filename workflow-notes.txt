@@ -1,0 +1,4 @@
+Step 1: clone
+Step 2: branch
+Step 3: edit/add/commit
+Step 4: push + PR
